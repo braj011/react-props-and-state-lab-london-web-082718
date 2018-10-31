@@ -5,7 +5,7 @@ const allPets = [
     gender: 'male',
     age: 4,
     weight: 1,
-    name: 'Trident',
+    name: 'Goober',
     isAdopted: false,
   },
   {
